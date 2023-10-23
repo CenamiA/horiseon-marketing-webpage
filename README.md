@@ -13,9 +13,9 @@ N/A
 
 Use of HTML
 
-![HTML 1] (assets/images/HTML 1.png)
-![HTML 2] (assets/images/HTML 1.png)
-![HTML 3] (assets/images/HTML 1.png)
+![HTML code 1](<assets/images/HTML 1.png>)
+![HTML code 2](<assets/images/HTML 2.png>)
+![HTML code 3](<assets/images/HTML 3.png>)
 
 Updated CSS 
 
